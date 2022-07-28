@@ -1,0 +1,47 @@
+.container{
+
+    padding-top: 70px;
+    padding-left: 200px;
+
+}
+
+.d-sm-flex{
+    padding-left: 200px;
+}
+.img-fluid{
+
+    padding-left: 100px;
+   
+}
+
+.p-1{
+color: white;
+text-align: center;
+font-weight: bold;
+font-size: 1.5em;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.t-1{
+
+    color: white;
+    width: 500px;
+
+
+}
+
+.h-1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+
+}
+
+.btn-group{
+
+    padding-left: 500px;
+
+}
+
